@@ -12,6 +12,8 @@ hero_media: jhur.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
+  fonts:
+    style:italic
 <!--   background:
     color: 'navy'
     text_color_light: true -->
