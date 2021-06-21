@@ -2,7 +2,7 @@
 headless: true
 weight: 10  # Order that this section will appear.
 title: "Julia D. Hur"
-subtitle: "New York University - Stern School of Business"
+subtitle: "New Yorks University - Stern School of Business"
 image: jhur.jpg
 design:
   columns: "2"
