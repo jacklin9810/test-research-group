@@ -15,7 +15,6 @@ design:
   fonts:
     style:italic
     size: 14
-    color: 'blue'
 <!--   background:
     color: 'navy'
     text_color_light: true -->
