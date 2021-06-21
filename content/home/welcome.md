@@ -11,7 +11,7 @@ subtitle: "New York University - Stern School of Business"
 hero_media: jhur.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '1'
+  columns: 2
 <!--   background:
     color: 'navy'
     text_color_light: true -->
