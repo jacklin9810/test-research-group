@@ -6,14 +6,14 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-# title: "Julia D. Hur"
-# subtitle: "New York University - Stern School of Business"
-blank_media: jhur.jpg
+title: "Julia D. Hur"
+subtitle: "New York University - Stern School of Business"
+params:
+  background_img:open-book.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: 2
-  background:
-    image: jhur.jpg
+  columns: "2"
+  # background:
 <!--     color: 'navy'
     text_color_light: true -->
 advanced:
