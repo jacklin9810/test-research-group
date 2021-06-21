@@ -9,6 +9,9 @@ weight: 10  # Order that this section will appear.
 title: "Julia D. Hur"
 subtitle: "New York University - Stern School of Business"
 image: jhur.jpg
+<p align="left">
+  <img src="https://github.com/jacklin9810/test-research-group/blob/main/assets/media/jhur.jpg" width="350" title="hover text">
+</p>
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: 2
