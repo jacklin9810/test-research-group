@@ -12,8 +12,11 @@ hero_media: jhur.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-  fontsize: 50pt
+  background:
+    color: 'navy'
+    text_color_light: true
 advanced:
+  fontsize:20pt
   css_style:
   css_class:
 ---
