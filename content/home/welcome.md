@@ -1,9 +1,10 @@
 ---
+widget: hero
 headless: true
 weight: 10  # Order that this section will appear.
 title: "Julia D. Hur"
 subtitle: "New Yorks University - Stern School of Business"
-image: jhur.jpg
+hero_media: jhur.jpg
 design:
   columns: "2"
 advanced:
