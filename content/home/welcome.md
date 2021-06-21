@@ -3,13 +3,12 @@
 # Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
 # Add more sections by duplicating this file and customizing to your requirements.
 
-widget: blank  # See https://wowchemy.com/docs/page-builder/
+widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Julia D. Hur"
 subtitle: "New York University - Stern School of Business"
-params:
-  background_img:open-book.jpg
+hero_media: jhur.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: "2"
