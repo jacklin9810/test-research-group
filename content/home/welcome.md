@@ -16,7 +16,6 @@ design:
     color: 'navy'
     text_color_light: true
 advanced:
-  fontsize:20pt
   css_style:
   css_class:
 ---
