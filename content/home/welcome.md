@@ -14,7 +14,7 @@ design:
   columns: '2'
   fonts:
     style:italic
-    size: 14
+    fontsize: 14
 <!--   background:
     color: 'navy'
     text_color_light: true -->
