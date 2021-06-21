@@ -8,6 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: "Julia D. Hur"
 subtitle: "New York University - Stern School of Business"
+media:jhur.jpg
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: 2
@@ -17,7 +18,7 @@ design:
 advanced:
   css_style:
   css_class:
-  <image src="/assets/media/jhur.jpg">
+  # <image src="/assets/media/jhur.jpg">
 ---
 <p style="font-family:sans-serif; font-size:15pt;line-height:150%">
 <strong>Julia D. Hur</strong> is a Global Network Assistant Professor, NYU, and an Assistant Professor of Management and Organizations at NYU Shanghai, affiliated with Stern School of Business. She teaches courses including Negotiation Fundamentals, Collaboration, Conflict, and Negotiation, and Management and Organizations. She holds a PhD in Management and Organizations from the Kellogg School of Management at Northwestern University and an MA in Social Sciences from the University of Chicago.
